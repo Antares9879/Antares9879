@@ -1,6 +1,6 @@
 # Muhammad Rafly Rizky Wahyudi
 
-### Full-Stack Web Developer | Python | AI Enthusiast
+### Full-Stack Web Developer | AI Enthusiast
 
 ---
 
